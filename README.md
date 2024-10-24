@@ -1,2 +1,13 @@
 # ActiveProjects
-List of Current Projects and Activity Status
+List of Current Projects that Midwest Gadgets LLC is actively working on or have dropped, as well as their current status' - Updated 10/24/2024
+
+| Project Type                     | Project Description                                                                          | Status | Revision Version |
+| -------------------------------- | -------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| Custom Project                   | Custom Footprint Single and Dual Coal 13.56mhz Repeater                                      | Active | V9               |
+| Low Frequency Repeater           | 125KHz Repeater - NonPassive                                                                 | Active | V4               |
+| Proxmark 3 Easy Antenna Enhancer | 13.56mhz antenna Enhancer Bottom Board (Mid-Board in development)                            | Active | V1               |
+| Building in a Box                | RTA Clone of Building in a Box                                                               | Active | V1               |
+| Standard Field Generator         | 13.56mhz Field Generator                                                                     | Active | V3               |
+| Round Field Generator            | 13.56mhz Field Generator in a Round Footprint                                                | Dead   | V1               |
+| DIY Field Generator              | 13.56 Field Generator in a DIY footprint for Power and Antenna additions                     | Active | V3               |
+| Custom Project                   | Custom Footprint single 13.56mhz Flex Repeater with Custom Cutouts for Square Style Terminal | Active | V0               |
