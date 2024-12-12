@@ -12,3 +12,4 @@ List of Current Projects that Midwest Gadgets LLC is actively working on or have
 | DIY Field Generator              | 13.56 Field Generator in a DIY footprint for Power and Antenna additions                     | Active | V3               |
 | Custom Project                   | Custom Footprint single 13.56mhz Flex Repeater with Custom Cutouts for Square Style Terminal | Active | V0               |
 | NFC Extender Standard/Pro        | A True NFC Extender with 2 options.  JST cable or SMA cable with various length              | Active | V1               |
+| DAGR                             | Active                                                                                       | Active | V0               |
