@@ -1,5 +1,5 @@
 # ActiveProjects
-List of Current Projects that Midwest Gadgets LLC is actively working on or have dropped, as well as their current status' - Updated 10/24/2024
+List of Current Projects that Midwest Gadgets LLC is actively working on or have dropped, as well as their current status' - Updated 12/12/2024
 
 | Project Type                     | Project Description                                                                          | Status | Revision Version |
 | -------------------------------- | -------------------------------------------------------------------------------------------- | ------ | ---------------- |
